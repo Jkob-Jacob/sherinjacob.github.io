@@ -1,0 +1,3 @@
+[submodule "new-folder"]
+	path = new-folder
+	url = ./new-folder
