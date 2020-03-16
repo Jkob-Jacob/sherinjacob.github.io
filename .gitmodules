@@ -1,3 +1,6 @@
 [submodule "new-folder"]
 	path = new-folder
 	url = ./new-folder
+[submodule "jkob"]
+	path = jkob
+	url = https://github.com/Jkob-Jacob/jkob.git
